@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/code/Javaweb/CustomerSupport/src/java/com/wrox/Ticket.java</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/src/java/com/wrox/AuthenticationFilter.java</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/src/java/com/wrox/LoginServlet.java</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/src/java/com/wrox/Configurator.java</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/src/java/com/wrox/TicketServlet.java</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/src/java/com/wrox/SessionListener.java</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/web/index.jsp</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/src/java/com/wrox/SessionListServlet.java</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/web/WEB-INF/web.xml</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/web/WEB-INF/jsp/view/ticketForm.jsp</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/web/WEB-INF/jsp/base.jspf</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/web/WEB-INF/jsp/view/viewTicket.jsp</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/web/WEB-INF/jsp/view/login.jsp</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/web/WEB-INF/jsp/view/listTickets.jsp</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/web/WEB-INF/jsp/view/sessions.jsp</file>
+            <file>file:/D:/code/Javaweb/CustomerSupport/src/java/com/wrox/SessionRegistry.java</file>
+        </group>
+    </open-files>
+</project-private>
